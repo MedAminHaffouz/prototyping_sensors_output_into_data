@@ -1,3 +1,5 @@
+#this script is the main one, it takes the serial input into the sqlite db
+
 import serial
 import sqlite3
 from datetime import datetime

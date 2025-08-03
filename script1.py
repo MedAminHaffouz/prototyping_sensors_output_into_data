@@ -1,3 +1,5 @@
+#this script was to understand how python takes the serial input and prints it
+
 import serial
 from datetime import datetime
 
